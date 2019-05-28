@@ -1,0 +1,4 @@
+﻿'qus3.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'qus3.exe' (CLR v4.0.30319: DefaultDomain): Loaded '\\FS\STUDENT$\30014464\Desktop\arrays\qus3\qus3\bin\Debug\qus3.exe'. Symbols loaded.
+The program '[13784] qus3.exe: Program Trace' has exited with code 0 (0x0).
+The program '[13784] qus3.exe' has exited with code 0 (0x0).
